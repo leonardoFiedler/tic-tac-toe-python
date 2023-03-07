@@ -16,3 +16,4 @@ cd tic-tac-toe-python/
 python3 tic-tac-toe.py
 ```
 
+3. Para formatação de código, utilizar a lib [Black](https://github.com/psf/black)
